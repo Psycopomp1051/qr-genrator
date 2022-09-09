@@ -1,2 +1,2 @@
-# qr-genrator
+# PROJECTS
 qr generator for employee
